@@ -1,0 +1,8 @@
+1
+/var/lib/postgresql/data
+1640313145
+5432
+/var/run/postgresql
+*
+   775777         0
+ready   
